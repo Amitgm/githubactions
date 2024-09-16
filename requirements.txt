@@ -1,4 +1,2 @@
-Pandas
-# pytest is for unit testing
+pandas
 pytest
-#  pytest look inside the code repositrory to find the test folder to run all the unit test cases.
